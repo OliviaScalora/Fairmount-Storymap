@@ -24,11 +24,7 @@ h3 {
 .header {
   font-size: 30px;
   text-align: center;
-<<<<<<< Updated upstream
-  background-image: url('/graphics/header-image.jpg');
-=======
   background-image: url('header-image.jpg');
->>>>>>> Stashed changes
   background-size: cover;
   height: 100vh;
   width: 100%;
